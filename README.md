@@ -17,7 +17,7 @@ To get started with Willow, follow these steps:
 
 2. **Install Dependencies:**
    ```
-   cd willow-en
+   cd willow-en/frontend
    yarn install
    ```
 
